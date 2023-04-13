@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insert_And_Retriving_Images", "Insert_And_Retriving_Images\Insert_And_Retriving_Images.csproj", "{20464E4E-B16E-48C1-9898-067714E7203D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20464E4E-B16E-48C1-9898-067714E7203D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20464E4E-B16E-48C1-9898-067714E7203D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20464E4E-B16E-48C1-9898-067714E7203D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20464E4E-B16E-48C1-9898-067714E7203D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC59DAA-7688-4EEB-A2AC-FA426063E918}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+ foreach (GridViewRow gvr in GridView1.Rows)
+                        {
+                            Image image = (Image)gvr.FindControl("Image_Name");
+
+
+
+                            image.ImageUrl = "/Images/pfdlogo.jpeg";
+         }
